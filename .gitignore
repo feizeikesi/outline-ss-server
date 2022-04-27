@@ -15,3 +15,5 @@
 
 # goreleaser temporary files.
 /dist/
+
+vendor/
